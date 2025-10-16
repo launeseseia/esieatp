@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"      # ou "pip", "maven", "gradle", "docker", "github-actions", etc.
+    directory: "/"
+    schedule:
+      interval: "daily"          # daily | weekly | monthly | quarterly | semiannually | yearly | cron
+      day: "tuesday"
+      time: "02:00"
+      timezone: "Europe/Paris"
+
