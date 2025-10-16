@@ -1,0 +1,26 @@
+{
+  "name": "esieatp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/launeseseia/esieatp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/launeseseia/esieatp/issues"
+  },
+  "homepage": "https://github.com/launeseseia/esieatp#readme",
+  "dependencies": {
+    "minimist": "0.0.8"
+  }
+}
