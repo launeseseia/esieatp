@@ -4,5 +4,5 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"          # daily | weekly | monthly | quarterly | semiannually | yearly | cron
-      time: "15:38"
+      time: "15:46"
       timezone: "Europe/Paris"
