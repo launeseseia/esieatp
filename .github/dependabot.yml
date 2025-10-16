@@ -5,6 +5,6 @@ updates:
     schedule:
       interval: "daily"          # daily | weekly | monthly | quarterly | semiannually | yearly | cron
       day: "thursday"
-      time: "14:42"
+      time: "14:45"
       timezone: "Europe/Paris"
 
